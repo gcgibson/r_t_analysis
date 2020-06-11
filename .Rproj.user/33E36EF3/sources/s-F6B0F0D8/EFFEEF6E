@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591627399644.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EFFEEF6E",
+    "lastKnownWriteTime" : 1591627546,
+    "last_content_update" : 1591627546570,
+    "path" : "~/netlogo_analysis/utils.R",
+    "project_path" : "utils.R",
+    "properties" : {
+        "cursorPosition" : "1,21",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

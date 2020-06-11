@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591618871387.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F9A9048E",
+    "lastKnownWriteTime" : 1591664570,
+    "last_content_update" : 1591664570839,
+    "path" : "~/netlogo_analysis/read_nl_csv.R",
+    "project_path" : "read_nl_csv.R",
+    "properties" : {
+        "cursorPosition" : "98,0",
+        "scrollLine" : "90",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

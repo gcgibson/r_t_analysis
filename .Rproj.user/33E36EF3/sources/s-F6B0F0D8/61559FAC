@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591664580513.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2470809976",
+    "id" : "61559FAC",
+    "lastKnownWriteTime" : 1591664930,
+    "last_content_update" : 1591665247362,
+    "path" : "~/netlogo_analysis/epi_estim_example.R",
+    "project_path" : "epi_estim_example.R",
+    "properties" : {
+        "cursorPosition" : "39,19",
+        "scrollLine" : "35",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
